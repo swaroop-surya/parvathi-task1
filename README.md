@@ -50,8 +50,7 @@ This project was developed as part of an internship task to demonstrate:
  ├── index.html
  ├── about.html
  ├── contact.html
- ├── css/
- │    └── styles.css
+
 ```
 
 ---
